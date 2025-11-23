@@ -59,6 +59,7 @@ output sum,carry;
 assign sum=( (a ^ b)^cin); 
 assign carry= ( (a & b)| ( cin &(a ^ b ))); 
 endmodule 
+
 ii)FULL SUBTRACTOR 
 module fs(a,b,bin,difference,borrow); 
 input a,b,bin; 
@@ -75,7 +76,8 @@ endmodule
 
 **Output Timing Waveform**
 ![waveform3](https://github.com/user-attachments/assets/d485ed46-7837-4920-b6b7-faee3c98e4e9)
-![Uploading waveform3.2.jpg…]()
+![waveform3 2](https://github.com/user-attachments/assets/c74cb55a-7fbc-4b19-8f12-4fa22066f9cf)
+
 
 
 
