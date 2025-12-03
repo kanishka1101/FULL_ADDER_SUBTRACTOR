@@ -82,14 +82,20 @@ assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b ))));
 endmodule
 
 **RTL Schematic**
-![ex3](https://github.com/user-attachments/assets/39f0abca-f90a-4819-b15f-a68fe5fb414b)
-![ex4](https://github.com/user-attachments/assets/16f9c1d8-380b-429f-bbff-01a0c2982db8)
+![EX3](https://github.com/user-attachments/assets/5f674717-2aba-450a-a7d6-1d455fee3130)
+![EX3 1](https://github.com/user-attachments/assets/90e68d4d-665a-4d84-a188-6f9fb5341be4)
+
+
+
 
 
 
 **Output Timing Waveform**
-![waveform3](https://github.com/user-attachments/assets/d485ed46-7837-4920-b6b7-faee3c98e4e9)
-![waveform3 2](https://github.com/user-attachments/assets/c74cb55a-7fbc-4b19-8f12-4fa22066f9cf)
+![EX3wave](https://github.com/user-attachments/assets/32508d74-c98d-4a61-bf0f-41feb1c228bd)
+![EX3 1wave](https://github.com/user-attachments/assets/ab65df05-6dfc-4646-8b4e-f1d0487b1a10)
+
+
+
 
 
 
