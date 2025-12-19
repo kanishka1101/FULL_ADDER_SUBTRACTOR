@@ -89,7 +89,6 @@ endmodule
 
 
 
-
 **Output Timing Waveform**
 ![EX3wave](https://github.com/user-attachments/assets/32508d74-c98d-4a61-bf0f-41feb1c228bd)
 ![EX3 1wave](https://github.com/user-attachments/assets/ab65df05-6dfc-4646-8b4e-f1d0487b1a10)
