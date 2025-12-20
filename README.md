@@ -8,7 +8,7 @@ Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
 
-To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
+To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming
 
 **Equipments Required:**
 
